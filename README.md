@@ -2,7 +2,7 @@
 
 Spawner curated list of datasets across various industries. 
 
-Please pay attention to the license of each dataset. Most datasets are completely free use, some require attribution of authors. You can find the individual license in each subdirectory. 
+Please pay attention to the license of each dataset. Most datasets are completely free use, if license is missing you can assume free use. Some will require attribution of authors. You can find the individual licenses in each subdirectory. 
 
 ## Getting Started
 
