@@ -6,3 +6,4 @@ Datasets relevant to finance. These datasets include equities, macro and microec
 
 [Gross Domestic Product](https://link2.com) from US Treasury
 
+[Retail Gross Margin Percentage](https://www.census.gov/en.html) from US Census Bureau
